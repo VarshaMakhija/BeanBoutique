@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+    background-color: #f1f1f1;
+  }
+  
+  form {
+    width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  }
+  
+  h2 {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  .login-box {
+    background-color: #9F5C44;
+    color: white;
+    padding: 1px;
+    margin-bottom: 20px;
+    text-align: center;
+  
+    /* Add the following CSS to style the box */
+    border: 1px solid #ccc;
+    border-radius: 5px;
+  
+    /* Center the box on the page */
+    margin: 0 auto;
+  }
+  
+  input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+  input[type="submit"] {
+    background-color: #9F5C44;
+    color: white;
+    cursor: pointer;
+  }
+  
+  p {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  a {
+    color: #9F5C44;
+  }
+  
